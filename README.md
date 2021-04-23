@@ -1,7 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I'm Martin Velkov!
 
----
-
 A Software Engineer specializing in Web Development. Experience with the technologies listed in the **toolbox** below.
 
 ---
