@@ -122,7 +122,7 @@ A Software Engineer specializing in Web Development. Experience with the technol
 />
 
 ---
-### ✉ Connect
+### ✉ Contacts
 
 <a href="https://www.linkedin.com/in/martin-velkov-228aa91a8/" target="_blank">
   <img
@@ -148,9 +148,6 @@ A Software Engineer specializing in Web Development. Experience with the technol
     height="40px"
   />
 </a>
-
-
-
 
 ---
 
