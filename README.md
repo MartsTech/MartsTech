@@ -105,24 +105,6 @@
   width="40px"
   height="40px"
 />
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"
-  alt="Docker logo"
-  width="40px"
-  height="40px"
- />
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
-  alt="Npm logo"
-  width="40px"
-  height="40px"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg"
-  alt="Yarn logo"
-  width="40px"
-  height="40px"
-/>
 
 ---
 ### ✉ Contacts
