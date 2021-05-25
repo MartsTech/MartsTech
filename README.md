@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I'm Martin Velkov!
 
-- 👨‍💻 A Software Engineer specializing in Web Development. 
+- 👨‍💻 A Software Engineer experienced with the technologies listed in the **toolbox** below. 
 - 🔥 Curious mind. Continuously learning, seeking patterns and connecting dots.
 - 🔭 Currently working on improving my programming skills!! 
 - :octocat: I’m looking forward to learn from all amazing minds 🧠 in the tech world 🌍!
