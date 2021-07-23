@@ -11,32 +11,14 @@
 ### 🧰 Toolbox
 
 <img
-  src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-  alt="Html logo"
-  width="40px"
-  height="40px"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
-  alt="Css logo"
-  width="40px"
-  height="40px"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-  alt="Javascript logo"
-  width="40px"
-  height="40px"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
-  alt="Typescript logo"
-  width="40px"
-  height="40px"
-/>
-<img
   src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
   alt="React.Js logo"
+  width="40px"
+  height="40px"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
+  alt="Next.Js logo"
   width="40px"
   height="40px"
 />
@@ -47,32 +29,8 @@
   height="40px"
 />
 <img
-  src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"
-  alt="Next.Js logo"
-  width="40px"
-  height="40px"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"
-  alt="MaterialUI logo"
-  width="40px"
-  height="40px"
-/>
-<img
-  src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"
-  alt="TailwindCss logo"
-  width="40px"
-  height="40px"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"
-  alt="Firebase logo"
-  width="40px"
-  height="40px"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"
-  alt="GraphQL logo"
+  src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+  alt="Typescript logo"
   width="40px"
   height="40px"
 />
@@ -89,6 +47,24 @@
   height="40px"
 />
 <img
+  src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"
+  alt="Dot-Net logo"
+  width="40px"
+  height="40px"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
+  alt="Cshard logo"
+  width="40px"
+  height="40px"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"
+  alt="GraphQL logo"
+  width="40px"
+  height="40px"
+/>
+<img
   src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
   alt="PostgreSQL logo"
   width="40px"
@@ -97,6 +73,18 @@
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
   alt="MongoDB logo"
+  width="40px"
+  height="40px"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"
+  alt="Docker logo"
+  width="40px"
+  height="40px"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"
+  alt="Kubernetes logo"
   width="40px"
   height="40px"
 />
