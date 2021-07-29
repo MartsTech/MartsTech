@@ -89,17 +89,18 @@
   height="40px"
 />
 <img
-  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
-  alt="Git logo"
-  width="40px"
-  height="40px"
-/>
-<img
   src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
   alt="Figma logo"
   width="30px"
   height="40px"
 />
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
+  alt="Git logo"
+  width="40px"
+  height="40px"
+/>
+
 
 ---
 ### ✉ Contacts
