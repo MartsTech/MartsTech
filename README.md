@@ -10,14 +10,12 @@
 
 ### 🧰 Toolbox
 
-<a href="#">
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
-    alt="React.Js logo"
-    width="40px"
-    height="40px"
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
+  alt="React.Js logo"
+  width="40px"
+  height="40px"
   />
-</a>
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
   alt="Next.Js logo"
