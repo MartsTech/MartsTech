@@ -144,4 +144,4 @@
 
 ![MartsTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartsTech&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartsTech&layout=compact&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MartsTec&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MartsTech&theme=dark)
