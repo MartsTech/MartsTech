@@ -23,12 +23,6 @@
   height="40px"
 />
 <img
-  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
-  alt="NodeJs logo"
-  width="40px"
-  height="40px"
-/>
-<img
   src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"
   alt="Dot-Net logo"
   width="40px"
@@ -37,6 +31,12 @@
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
   alt="Cshard logo"
+  width="40px"
+  height="40px"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
+  alt="NodeJs logo"
   width="40px"
   height="40px"
 />
