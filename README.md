@@ -17,18 +17,6 @@
   height="40px"
   />
 <img
-  src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
-  alt="Next.Js logo"
-  width="40px"
-  height="40px"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
-  alt="Redux logo"
-  width="40px"
-  height="40px"
-/>
-<img
   src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
   alt="Typescript logo"
   width="40px"
@@ -37,12 +25,6 @@
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
   alt="NodeJs logo"
-  width="40px"
-  height="40px"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
-  alt="Express logo"
   width="40px"
   height="40px"
 />
