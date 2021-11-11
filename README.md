@@ -123,7 +123,4 @@
 ---
 
 ### ⚙ Stats
-
-![MartsTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartsTech&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartsTech&layout=compact&theme=react)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MartsTech&theme=react)
+![MartsTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartsTech&show_icons=true&theme=react)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartsTech&layout=compact&theme=react)![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MartsTech&theme=react)
