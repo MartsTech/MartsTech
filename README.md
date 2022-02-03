@@ -95,7 +95,7 @@
     height="40px"
   />
 </a>
-<a href="https://www.instagram.com/m_velkov123/" target="_blank">
+<a href="https://www.instagram.com/martstech/" target="_blank">
   <img
     src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"
     alt="Instagram logo"
