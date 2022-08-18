@@ -11,7 +11,7 @@
 ### 🧰 Toolbox
 
 <img
-  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
+  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"
   alt="React.Js logo"
   width="40px"
   height="40px"
@@ -19,13 +19,13 @@
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
   alt="Typescript logo"
-  width="40px"
+  width="36px"
   height="40px"
 />
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"
   alt="Dot-Net logo"
-  width="40px"
+  width="36px"
   height="40px"
 />
 <img
@@ -35,31 +35,25 @@
   height="40px"
 />
 <img
-  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
+  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg"
+  alt="Android Studio logo"
+  width="40px"
+  height="40px"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg"
+  alt="Kotlin logo"
+  width="30px"
+  height="40px"
+/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"
   alt="NodeJs logo"
   width="40px"
   height="40px"
 />
 <img
-  src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"
-  alt="GraphQL logo"
-  width="40px"
-  height="40px"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
-  alt="PostgreSQL logo"
-  width="40px"
-  height="40px"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
-  alt="MongoDB logo"
-  width="40px"
-  height="40px"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"
+  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain.svg"
   alt="Docker logo"
   width="40px"
   height="40px"
@@ -71,14 +65,8 @@
   height="40px"
 />
 <img
-  src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
-  alt="Figma logo"
-  width="30px"
-  height="40px"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
-  alt="Git logo"
+  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg"
+  alt="Firebase logo"
   width="40px"
   height="40px"
 />
