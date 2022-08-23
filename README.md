@@ -93,7 +93,7 @@
 </a>
 <a href="https://www.facebook.com/martstech/" target="_blank">
   <img
-    src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg"
+    src="https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg"
     alt="Facebook logo"
     width="40px"
     height="40px"
