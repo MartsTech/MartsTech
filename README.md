@@ -75,7 +75,7 @@
 ---
 ### ✉ Contacts
 
-<a href="https://www.linkedin.com/in/martin-velkov-228aa91a8/" target="_blank">
+<a href="https://www.linkedin.com/in/martin-velkov/" target="_blank">
   <img
     src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"
     alt="Facebook logo"
