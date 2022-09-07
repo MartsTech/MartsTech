@@ -85,7 +85,7 @@
 </a>
 <a href="https://www.instagram.com/martstech/" target="_blank">
   <img
-    src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"
+    src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg"
     alt="Instagram logo"
     width="40px"
     height="40px"
