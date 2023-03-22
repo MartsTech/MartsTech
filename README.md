@@ -40,12 +40,12 @@
   width="40px"
   height="40px"
 />
-<img
+<!-- <img
   src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg"
   alt="Kotlin logo"
   width="30px"
   height="40px"
-/>
+/> -->
 <img
   src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"
   alt="NodeJs logo"
@@ -58,12 +58,12 @@
   width="40px"
   height="40px"
 />
-<img
+<!-- <img
   src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"
   alt="Kubernetes logo"
   width="40px"
   height="40px"
-/>
+/> -->
 <img
   src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg"
   alt="Firebase logo"
