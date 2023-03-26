@@ -59,35 +59,6 @@
   height="40px"
 />
 
-
----
-### ✉ Contacts
-
-<a href="https://www.linkedin.com/in/martin-velkov/" target="_blank">
-  <img
-    src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"
-    alt="Facebook logo"
-    width="40px"
-    height="40px"
-  />
-</a>
-<a href="https://www.instagram.com/martstech/" target="_blank">
-  <img
-    src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg"
-    alt="Instagram logo"
-    width="40px"
-    height="40px"
-  />
-</a>
-<a href="https://www.facebook.com/martstech/" target="_blank">
-  <img
-    src="https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg"
-    alt="Facebook logo"
-    width="40px"
-    height="40px"
-  />
-</a>
-
 ---
 
 ### ☕ Support
