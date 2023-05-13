@@ -41,15 +41,9 @@
   height="40px"
 />
 <img
-  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"
-  alt="NodeJs logo"
-  width="40px"
-  height="40px"
-/>
-<img
-  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain.svg"
-  alt="Docker logo"
-  width="40px"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
+  alt="Kotlin logo"
+  width="30px"
   height="40px"
 />
 
