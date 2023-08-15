@@ -11,39 +11,57 @@
 ### 🧰 Toolbox
 
 <img
-  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"
-  alt="React.Js logo"
+  src="https://cdn.worldvectorlogo.com/logos/react-2.svg"
+  alt="React"
   width="40px"
   height="40px"
   />
 <img
-  src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
-  alt="Typescript logo"
+  src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg"
+  alt="TypeScript"
   width="36px"
   height="40px"
 />
 <img
-  src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"
-  alt="Dot-Net logo"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
+  alt=".NET Core"
   width="36px"
   height="40px"
 />
 <img
-  src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
-  alt="Cshard logo"
-  width="40px"
+  src="https://cdn.worldvectorlogo.com/logos/c--4.svg"
+  alt="C#"
+  width="36px"
   height="40px"
 />
 <img
   src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg"
-  alt="Android Studio logo"
+  alt="Android Studio"
   width="40px"
   height="40px"
 />
 <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
-  alt="Kotlin logo"
+  src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg"
+  alt="Kotlin"
   width="30px"
+  height="40px"
+/>
+<img
+  src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"
+  alt="Laravel"
+  width="40px"
+  height="40px"
+/>
+<img
+  src="https://cdn.worldvectorlogo.com/logos/python-5.svg"
+  alt="Python"
+  width="36px"
+  height="40px"
+/>
+<img
+  src="https://cdn.worldvectorlogo.com/logos/docker-4.svg"
+  alt="Docker"
+  width="40px"
   height="40px"
 />
 
