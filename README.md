@@ -64,12 +64,6 @@
   width="36px"
   height="40px"
 />
-<img
-  src="https://cdn.worldvectorlogo.com/logos/docker-4.svg"
-  alt="Docker"
-  width="40px"
-  height="40px"
-/>
 
 ---
 
