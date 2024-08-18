@@ -67,13 +67,5 @@
 
 ---
 
-### ☕ Support
-
-<a href="https://www.buymeacoffee.com/martstech" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" />
-</a>
-
----
-
 ### ⚙ Stats
 ![MartsTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartsTech&show_icons=true&theme=react)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartsTech&layout=compact&theme=react)![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MartsTech&theme=react)
